@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Rascunho {
 	public static void main(String[] args) {
-		int opcao = 9;
+		int opcao;
 		float num1;
 		float num2;
 		float resultado = 0;
